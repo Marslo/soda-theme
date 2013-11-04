@@ -6,6 +6,10 @@ Project site: [http://buymeasoda.github.com/soda-theme/](http://buymeasoda.githu
 
 ## Design
 
+### Modified by Marslo
+![Soda Dark Theme _ Marslo](https://github.com/Marslo/Sublime2-3/blob/master/Screenshot/soda-theme3_win_marslo_2.png?raw=true)
+
+### Original
 ![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
 
 ![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
